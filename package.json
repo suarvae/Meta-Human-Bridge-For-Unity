@@ -1,0 +1,17 @@
+{
+  "name": "com.ravehouse.metahuman-bridge",
+  "version": "0.1.0",
+  "displayName": "MetaHuman Bridge",
+  "description": "Imports Epic MetaHuman DCC Export data (.dna + textures) directly into Unity as skinned meshes, skeletons, blend shapes, a Humanoid avatar and an optional runtime RigLogic facial solver. No Unreal Engine required at import time.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Rave House Studios"
+  },
+  "keywords": [
+    "metahuman",
+    "dna",
+    "riglogic",
+    "character",
+    "facial"
+  ]
+}
